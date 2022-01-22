@@ -68,7 +68,7 @@ $ mysql -uroot
 ```
 - Update the connection email/password
 ```SQL
-ALTER USER 'root'@'localhost' IDENTIFIED BY '<YOURNEWPASSWORD>';
+ALTER USER 'root'@'localhost' IDENTIFIED BY '1234';
 ```
 - Now go to .env file and update it with your username and password
 

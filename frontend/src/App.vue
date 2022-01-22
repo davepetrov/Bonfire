@@ -31,6 +31,15 @@
               >
                 {{ link.name }}
               </v-btn>
+              <v-btn  
+                href="https://github.com/davepetrov/Bonfire" target="_blank"
+                icon
+                >
+                <v-icon
+                  icon>fab fa-github
+                </v-icon>
+              </v-btn>
+              
 
               <v-spacer />
             </v-container>
